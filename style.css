@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teclas{
+    background-color: white;
+    border: 2px solid black;
+    width: 150px;
+    height: 500px;
+    position: relative;
+}
+
+p{
+    margin: 41%;
+    position: absolute;
+    bottom: 0px;
+    font-size: 50px;
+}
+
+.teclas:hover {
+    background-color: rgb(189, 87, 87);
+}
