@@ -23,6 +23,6 @@ p{
     font-size: 50px;
 }
 
-.teclas:hover {
+.teclas:active {
     background-color: rgb(189, 87, 87);
 }
